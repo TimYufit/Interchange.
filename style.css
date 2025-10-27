@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'KumbhSans-Light';
+  src:  url('KumbhSans-Light.woff2') format('woff2')
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+#framerate {
+  position: absolute;
+  top: 10;
+  left: 10;
+  color: tomato;
+}
